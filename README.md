@@ -2,6 +2,8 @@
 
 # Specificity-Classified Random Forest: Evaluation of Tennis Momentum Prediction
 
+# This is a research on the momentum of tennis players' matches that I conducted a few years ago (although I think this research was not very successful and had many limitations, it was just an attempt). 
+
 In competitive sports, especially in tennis matches, accurate prediction of score fluctuations and momentum changes is crucial for players and coaches to formulate effective strategies. Traditional models may have limitations in considering individual player specificity and match dynamics. Therefore, our research is dedicated to innovatively improving traditional models to better capture and predict fluctuations and momentum changes in matches, which is highly important for the scientific forecasting and development of sports.
 
 In this study, we innovatively propose a fluctuation prediction model called Specifici-ty-Classified Remodeled Forest (SRC), based on a traditional random forest model with strong interpretability. This model incorporates dimensionality reduction and clustering al-gorithms to precisely predict score fluctuations and momentum changes in tennis matches. We also extend this model to design a turning point prediction model based on match data. Compared to general traditional models, the turning point prediction model can provide more accurate assessments of feature importance, quantifying the different factors that impact players. Leveraging the specificity of different players, the model offers profound insights into match outcomes.
